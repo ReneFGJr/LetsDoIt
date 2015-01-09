@@ -1,0 +1,14 @@
+SAMPLE BOOKING
+https://www.google.com/calendar/render?action=TEMPLATE&text=Hotel+Casablanca&dates=20150128T120000/20150129T120000&details=Chegada:+quarta-feira,+28+de+janeiro+de+2015,+entrada+depois+12:00%0APartida:+quinta-feira,+29+de+janeiro+de+2015,+sa%C3%ADda+antes+12:00%0A%0AVoc%C3%AA+pode+sempre+visualizar,+modificar+ou+cancelar+a+sua+reserva+online+acessando+Minha+Booking.com.+:%0A%0Ahttps://secure.booking.com/myreservations.pt-br.html?aid%3D339530;label%3D1434_recmd-dest_btn-2_v2-SgYBeQYAfgYAXAYBjQUBfAYBQwYA;sid%3D997957441cf7d4b645aeb04ef478a975;dcid%3D2;bn%3D616014042;lang%3Dpt-br;pincode%3D4486&&location=SHN+03+Lote+A,+Brasilia+(Distrito+Federal),+70703-900,+Brasil@-15.79016240152559,-47.888558507183916&trp=false&sprop=http://www.booking.com/&sprop=name:Booking.com,+b.v.&pli=1&sf=true&output=xml#f
+
+https://www.google.com/calendar/render?
+	action=TEMPLATE
+	&text=Hotel+Casablanca
+	&dates=20150128T120000/20150129T120000
+	&details=Chegada:+quarta-feira,+28+de+janeiro+de+2015,+entrada+depois+12:00%0APartida:+quinta-feira,+29+de+janeiro+de+2015,+sa%C3%ADda+antes+12:00%0A%0AVoc%C3%AA+pode+sempre+visualizar,+modificar+ou+cancelar+a+sua+reserva+online+acessando+Minha+Booking.com.+:%0A%0Ahttps://secure.booking.com/myreservations.pt-br.html?aid%3D339530;label%3D1434_recmd-dest_btn-2_v2-SgYBeQYAfgYAXAYBjQUBfAYBQwYA;sid%3D997957441cf7d4b645aeb04ef478a975;dcid%3D2;bn%3D616014042;lang%3Dpt-br;pincode%3D4486&
+	&location=SHN+03+Lote+A,+Brasilia+(Distrito+Federal),+70703-900,+Brasil@-15.79016240152559,-47.888558507183916
+	&trp=false
+	&sprop=http://www.booking.com/&sprop=name:Booking.com,+b.v.
+	&pli=1
+	&sf=true
+	&output=xml#f
